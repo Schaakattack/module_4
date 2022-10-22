@@ -5,12 +5,12 @@ This project includes a risk-based analysis of four large hedge fund portfolios 
 
 ---
 ## Technologies
-** Jupyter Labs**  
+** Jupyter Labs **  
 ** Python 3.7 **   
-** pandas**
+** pandas **
 ** Pathlib ** 
 ** Numpy ** 
-** matplotlib**  
+** matplotlib **  
 
 ---
 ## Contributors
